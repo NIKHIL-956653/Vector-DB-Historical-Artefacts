@@ -42,6 +42,7 @@ LLM references real historical work automatically! 🔥
 - **python-dotenv** — environment management
 
 ## Project Structure
+```
 Vector-DB-Historical-Artefacts/
 ├── embeddings.py      # Convert text to 384-dim vectors
 ├── vector_store.py    # Store/load documents in FAISS
@@ -52,7 +53,7 @@ Vector-DB-Historical-Artefacts/
 ├── requirements.txt   # Dependencies
 ├── .gitignore
 └── .env               # API keys (not committed)
-
+```
 ## Setup
 
 ### 1. Clone the repo
